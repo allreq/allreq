@@ -6,6 +6,7 @@
   "module": "dist/esm/index.js",
   "files": [
     "dist",
+    "CHANGELOG.md",
     "README.md"
   ],
   "types": "dist/index.d.ts",
@@ -41,8 +42,5 @@
     "rollup-plugin-dts": "^4.1.0",
     "tslib": "^2.3.1",
     "typescript": "^4.5.5"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/just-do-halee"
   }
 }
